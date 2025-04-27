@@ -1,4 +1,4 @@
-# ⚡ Wattson
+# 🛠️ Wattson
 
 A simple adjustable **DC voltage regulator** built for powering, monitoring, and protecting a variety of electronics prototyping projects.
 
@@ -8,7 +8,7 @@ A simple adjustable **DC voltage regulator** built for powering, monitoring, and
 
 ---
 
-## 🧩 Key Features
+## 🔹 Key Features
 
 - Supports **only one power source at a time** (DC input via banana plugs, spade connectors, jack, or USB-A)
 - **10A fuse** for overcurrent protection
@@ -17,7 +17,7 @@ A simple adjustable **DC voltage regulator** built for powering, monitoring, and
 
 ---
 
-## 🔧 Planned Improvements
+## 🔹 Planned Improvements
 
 - Implement a **switchable input selector** for safer handling of multiple power sources
 - Add a **USB-A VBUS passthrough** to bypass the regulator when voltage adjustment isn’t needed
