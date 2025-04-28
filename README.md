@@ -1,4 +1,4 @@
-# 🛠️ Wattson
+# 💡 Wattson
 
 A simple adjustable **DC voltage regulator** built for powering, monitoring, and protecting a variety of electronics prototyping projects.
 
