@@ -8,6 +8,12 @@ A simple adjustable **DC voltage regulator** built for powering, monitoring, and
 
 ---
 
+## 🔹 Rev 1
+
+- Tracking schematic versions. Functionally the same.
+
+---
+
 ## 🔹 Key Features
 
 - Supports **only one power source at a time** (DC input via banana plugs, spade connectors, jack, or USB-A)
