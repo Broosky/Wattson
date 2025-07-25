@@ -2,17 +2,16 @@
 
 A simple adjustable **DC voltage regulator** built for powering, monitoring, and protecting a variety of electronics prototyping projects.
 
----
+> If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
+> It helps others discover the project and motivates me to keep building and sharing more.
+
+## 🔹 Rev 1 Schematic
 
 ![Schematic](Schematic.png)
-
----
 
 ## 🔹 Rev 1
 
 - Tracking schematic versions. Functionally the same.
-
----
 
 ## 🔹 Key Features
 
@@ -21,10 +20,9 @@ A simple adjustable **DC voltage regulator** built for powering, monitoring, and
 - Internal power busses wired with **16 AWG** for ampacity and reduced resistance
 - Adjustable voltage output for a broad range of applications
 
----
-
 ## 🔹 Planned Improvements
 
 - Implement a **switchable input selector** for safer handling of multiple power sources
 - Add a **USB-A VBUS passthrough** to bypass the regulator when voltage adjustment isn’t needed
+- **USB-A VBUS passthrough** blocking diode
 - Boost current capacity using **NPN power transistors** in an emitter-follower configuration
