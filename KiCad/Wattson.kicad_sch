@@ -7,7 +7,7 @@
 	(title_block
 		(title "Wattson")
 		(date "2025-09-02")
-		(rev "1.1")
+		(rev "1.2")
 		(company "Illusion Interactive")
 	)
 	(lib_symbols
@@ -2096,6 +2096,46 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "BLK"
+		(exclude_from_sim no)
+		(at 145.542 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0125ce9d-8fea-49b4-919a-7fde00d01fe0")
+	)
+	(text "RED"
+		(exclude_from_sim no)
+		(at 179.832 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "05922682-2ca5-484e-84a9-86e4c23e0b3d")
+	)
+	(text "RED"
+		(exclude_from_sim no)
+		(at 131.064 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "26f907e8-7f07-4aa6-94e5-28886cbb012d")
+	)
+	(text "BLK"
+		(exclude_from_sim no)
+		(at 96.266 76.454 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b852d59e-757c-41f9-91f5-559c051e8bff")
 	)
 	(junction
 		(at 189.23 127)
