@@ -5,9 +5,14 @@ A simple adjustable DC voltage regulator built for powering, monitoring, and pro
 > If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
 > It helps others discover the project and motivates me to keep building and sharing more.
 
-## 🔹 Rev 1.2 Schematic
+## 🔹 Rev 1.3 Schematic
 
-![Rev 1.2](<Schematics/Rev 1.2.png>)
+![Rev 1.3](<Schematics/Rev 1.3.png>)
+
+## 🔹 Rev 1.3
+
+- Refine input voltages.
+- 1A fuse.
 
 ## 🔹 Rev 1.2
 
@@ -24,8 +29,7 @@ A simple adjustable DC voltage regulator built for powering, monitoring, and pro
 ## 🔹 Key Features
 
 - Supports only one power source at a time (DC input via banana plugs, spade connectors, jack, or USB-A).
-- 10A fuse for overcurrent protection.
-- Internal power busses wired with 16 AWG for ampacity and reduced resistance.
+- LM317 limited to 1.5A. Internal power busses wired with 16 AWG for ampacity.
 - Adjustable voltage output for a broad range of applications.
 
 ## 🔹 Planned Improvements

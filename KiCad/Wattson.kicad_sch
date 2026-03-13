@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Wattson")
-		(date "2025-09-02")
-		(rev "1.2")
+		(date "2026-03-13")
+		(rev "1.3")
 		(company "Illusion Interactive")
 	)
 	(lib_symbols
@@ -3074,7 +3074,7 @@
 				)
 			)
 		)
-		(property "Value" "10A Max"
+		(property "Value" "1A"
 			(at 82.55 106.68 90)
 			(effects
 				(font
@@ -3219,7 +3219,7 @@
 				)
 			)
 		)
-		(property "Value" "LM317 Regulator (VADJ 4V5-40VDC)"
+		(property "Value" "LM317 Regulator (VADJ 5-22VDC)"
 			(at 138.684 114.3 0)
 			(effects
 				(font
@@ -3486,7 +3486,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "56c28bf8-1f4c-4369-9cc3-cb0522ce2649")
 		(property "Reference" "#PWR05"
 			(at 218.44 90.17 0)
@@ -3497,12 +3496,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VADJ (4V5-40VDC)"
-			(at 218.44 81.28 0)
+		(property "Value" "VADJ (5-22VDC)"
+			(at 211.836 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -3620,7 +3620,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8189739e-0e54-44cb-b38a-267dd481d16f")
 		(property "Reference" "#PWR02"
 			(at 45.72 102.87 0)
@@ -3631,12 +3630,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VIN (4V5-40VDC)"
-			(at 45.72 93.98 0)
+		(property "Value" "VIN (7-24VDC)"
+			(at 38.608 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
