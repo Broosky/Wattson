@@ -26,7 +26,7 @@ A simple adjustable DC voltage regulator built for powering, monitoring, and pro
 
 - Initial release. Functionally the same.
 
-## 🔹 Key Features
+## 🔹 Features
 
 - Supports only one power source at a time (DC input via banana plugs, spade connectors, jack, or USB-A).
 - LM317 limited to 1.5A. Internal power busses wired with 16 AWG for ampacity.
