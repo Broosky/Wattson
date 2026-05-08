@@ -5,9 +5,13 @@ A simple adjustable DC voltage regulator built for powering, monitoring, and pro
 > If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
 > It helps others discover the project and motivates me to keep building and sharing more.
 
-## 🔹 Rev 1.3 Schematic
+## 🔹 Rev 1.4 Schematic
 
-![Rev 1.3](<Schematics/Rev 1.3.png>)
+![Rev 1.4](<Schematics/Rev 1.4.png>)
+
+## 🔹 Rev 1.4
+
+- Optional fan, styling.
 
 ## 🔹 Rev 1.3
 
